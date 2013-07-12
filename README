@@ -1,0 +1,4 @@
+Graph ADT
+By Raj Maitra
+
+Graph abstract data type written in C. The graph ADT uses another list ADT to help arrange the data within a graph.
